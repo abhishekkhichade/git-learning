@@ -1,0 +1,3 @@
+# Data pipeline configuration 
+Souce: postgres
+destination: s3
