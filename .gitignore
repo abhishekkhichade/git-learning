@@ -1,0 +1,19 @@
+# Secrets
+.env
+*.key
+*.pem
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Data files
+*.csv
+*.parquet
+data/
+
+# IDE
+.vscode/
+.idea/
